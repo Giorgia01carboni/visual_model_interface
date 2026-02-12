@@ -1,0 +1,7 @@
+gradio>=5.0.0
+plotly
+openai
+transformers
+torch
+numpy
+# Note: Ensure the 'spatiallm' package is installed separately as per its instructions.
