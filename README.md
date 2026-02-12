@@ -26,7 +26,11 @@ While the core architecture is based on SpatialLM, this assistant is designed to
    ```bash
    pip install -r requirements.txt
 
+## Usage
 
+1. **Set API Keys**:
+   ```bash
+   export OPENAI_API_KEY="your-key..."
 ## Credits & Acknowledgements
 
 This interface is built upon the **SpatialLM** research project. If you use the core model architecture, please consider citing the original authors:
